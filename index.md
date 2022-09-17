@@ -4,4 +4,4 @@ Welcome to this small blog. Edit the `index.md` file to change this content. All
 
 ## This is a title - test1
 
-Logo created by [Wunderfinder](https://www.wunderfinder.org/). Posts will appear after this file. 
+Logo created by [Nadine Almer](nadinealmer.com/). Posts will appear after this file. 
