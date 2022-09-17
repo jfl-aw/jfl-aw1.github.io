@@ -1,4 +1,3 @@
-Social Stabilization
 
 \- ....phase 1
 
