@@ -2,6 +2,6 @@ Welcome to this small blog. Edit the `index.md` file to change this content. All
 
 ![Image Mishe logo](images/Mishe_Logo.jpeg)
 
-## This is a title - test1
+## Special Thanks
 
-Logo created by [Nadine Almer](https://nadinealmer.com/). Posts will appear after this file. 
+Logo created by [Nadine Almer](https://nadinealmer.com/). 
