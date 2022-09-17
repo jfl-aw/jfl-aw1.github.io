@@ -1,4 +1,4 @@
-Welcome to this minimalist looking blog.
+Welcome to this minimalist looking blog where I upload some of my stories.
 
 ![Image Mishe logo](images/Mishe_Logo.jpeg)
 
