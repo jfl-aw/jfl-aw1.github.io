@@ -1,4 +1,4 @@
-Welcome to this small blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Welcome to this minimalist looking blog.
 
 ![Image Mishe logo](images/Mishe_Logo.jpeg)
 
