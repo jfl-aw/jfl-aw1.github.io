@@ -5,3 +5,11 @@ Welcome to this minimalist looking blog where I upload some of my stories.
 ## Special Thanks
 
 Logo created by [Nadine Almer](https://nadinealmer.com/). 
+
+<script src="https://utteranc.es/client.js"
+        repo="jfl-aw.github.io"
+        issue-term="pathname"
+        theme="gruvbox-dark"
+        crossorigin="anonymous"
+        async>
+</script>
