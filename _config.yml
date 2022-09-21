@@ -42,6 +42,11 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
   
+  
+  html:
+  comments:
+    utterances:
+      repo: "jfl-aw / jfl-aw.github.io"
 <script src="https://utteranc.es/client.js"
         repo=" jfl-aw / jfl-aw.github.io "
         issue-term="pathname"
