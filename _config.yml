@@ -42,8 +42,8 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
   
-  <script src="https://utteranc.es/client.js"
-        repo="jfl-aw.github.io"
+<script src="https://utteranc.es/client.js"
+        repo=" jfl-aw / jfl-aw.github.io "
         issue-term="pathname"
         theme="gruvbox-dark"
         crossorigin="anonymous"
