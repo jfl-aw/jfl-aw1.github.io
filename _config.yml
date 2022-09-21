@@ -45,7 +45,7 @@ kramdown:
 # Set which comment system to use
 comments:
   # 'disqus' / 'giscus' / 'utterances' are available
-  provider:            utterances
+  provider:            giscus
 
 # You must install utterances github app before use.(https://github.com/apps/utterances)
 # Make sure all variables are set properly. Check below link for detail.
@@ -61,12 +61,12 @@ utterances:
 # https://giscus.vercel.app/
 giscus:
   repo:                "jfl-aw/jfl-aw.github.io"
-  repo-id:             "[your-repo-id]"
+  repo-id:             "R_kgDOIA7t-w"
   category:            "Comments"
-  category-id:         "[your-category-id]"
+  category-id:         "DIC_kwDOIA7t-84CRj66"
   mapping:             "pathname"
   reaction-enabled:    "1"
-  theme:               "dark_dimmed"
+  theme:               "dark"
   crossorigin:         "anonymous"
   
   html:
