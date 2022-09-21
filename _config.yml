@@ -68,7 +68,9 @@ giscus:
   reaction-enabled:    "1"
   theme:               "dark"
   crossorigin:         "anonymous"
-  
+ 
+ lightbox:              true
+ 
   html:
   comments:
     utterances:
